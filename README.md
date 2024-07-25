@@ -29,7 +29,7 @@ Coal, a sedimentary rock formed from ancient plant remains, plays a crucial role
 
 - Generating state-wise and year-wise predictions using the trained Random Forest Regressor.
 - Analyzing patterns, trends, and potential outliers in coal consumption across different states and years.
-  ![coal-supply-over-year](coalsupplyoveryears.jpg)
+  ![coal-supply-over-year](https://github.com/vaidik24/BigData-Project/blob/main/images/coalsupplyoveryears.jpg)
   ![coal-consumption-over-year](https://github.com/vaidik24/BigData-Project/blob/main/images/coalconsuptionoveryears.jpg)
 
 ## Analysis
