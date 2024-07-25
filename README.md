@@ -29,8 +29,15 @@ Coal, a sedimentary rock formed from ancient plant remains, plays a crucial role
 
 - Generating state-wise and year-wise predictions using the trained Random Forest Regressor.
 - Analyzing patterns, trends, and potential outliers in coal consumption across different states and years.
-  ![coal-supply-over-year](coalsupplyoveryears.jpg)
-  ![coal-consumption-over-year](coalconsuptionoveryears.jpg)
+
+<div style="display: flex; flex-wrap: wrap; gap: 3%;">
+  <img src="images/coalsupplyoveryears.jpg" width="30%" />
+  <img src="images/maharastra.jpg" width="30%" />
+  <img src="images/utterpradesh.jpg" width="30%" />
+  <img src="images/coalconsuptionoveryears.jpg" width="30%" />
+  <img src="images/kerela.jpg" width="30%" />
+  <img src="images/utterpradesh2.jpg" width="30%" />
+</div>
 
 ## Analysis
 
@@ -47,3 +54,8 @@ This study demonstrated the use of big data analytics and machine learning appro
 ## Interactive Dashboards
 
 Interactive dashboards were developed using Power BI to visualize coal supply and consumption across states, years, and sectors. These dashboards enable dynamic data exploration, empowering stakeholders to make informed decisions.
+
+<div >
+  <img src="images\Supply.jpg" width="100%" />
+  <!-- <img src="images/Consumption.jpg" width="100%" /> -->
+</div>
